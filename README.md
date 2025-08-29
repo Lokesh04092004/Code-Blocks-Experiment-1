@@ -66,9 +66,11 @@ void main() {
 
     printf("\nAll frames sent successfully.\n");
 }
-🖥️ Sample Output
+🖥️ Output:
 <img width="1600" height="900" alt="output 1" src="https://github.com/user-attachments/assets/1be28bdd-0ba4-4c11-9012-c08c56ce2f5c" />
 
 ✅ Result
 
 Thus, the Go-Back-N protocol using the sliding window technique was successfully implemented and verified.
+
+Github link: https://github.com/Lokesh04092004/Code-Blocks-Experiment-1/blob/main/README.md
